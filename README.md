@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @taolalannhiok
+
 -import random
 from math import sin, cos, pi, log
 from tkinter import *
